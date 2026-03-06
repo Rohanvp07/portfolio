@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Rohan Patil",
+    "label": "Senior Data Engineer | Data Scientist | AI Specialist",
+    "email": "rohanvp009@gmail.com",
+    "phone": "+44 7586 386 937",
+    "url": "https://www.linkedin.com/in/rohan-patil-090",
+    "summary": "Data Professional with 3+ years of experience designing and implementing scalable cloud-based data platforms and ML solutions. Strong expertise in PySpark, SQL, Python, and cloud platforms (AWS, Azure, Snowflake). Recently completed an MSc in Artificial Intelligence, combining advanced analytics with deep learning and MLOps knowledge to solve real-world problems.",
+    "location": {
+      "city": "Newcastle upon Tyne",
+      "countryCode": "UK",
+      "region": "Tyne and Wear"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "rohan-patil-090",
+        "url": "https://www.linkedin.com/in/rohan-patil-090"
+      },
+      {
+        "network": "GitHub",
+        "username": "Rohanvp07",
+        "url": "https://github.com/Rohanvp07"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ProjectPro",
+      "position": "Big Data Analyst",
+      "location": "India",
+      "startDate": "July 2022",
+      "endDate": "August 2024",
+      "duration": "2 years 2 months",
+      "summary": "Designed and developed scalable data pipelines and ML workflows across cloud environments.",
+      "highlights": [
+        "Designed and delivered scalable batch and real-time data pipelines using PySpark, AWS Kinesis, Azure Data Factory, Databricks, and Snowflake.",
+        "Implemented Medallion Architecture (Bronze-Silver-Gold) pipelines, enabling consistent and reusable datasets for analytics and ML use cases.",
+        "Built ELT pipelines in Snowflake using DBT to transform raw datasets into structured, analytics-ready data marts.",
+        "Developed AWS-based data solutions leveraging S3, Glue, Lambda, and Athena for data processing and catalog management.",
+        "Automated ML workflows using AWS SageMaker CI/CD pipelines, reducing model deployment time and improving reproducibility.",
+        "Optimised Snowflake storage structures, clustering strategies, and query performance to enhance efficiency.",
+        "Conducted data quality investigations, identified lineage gaps, and recommended governance improvements.",
+        "Partnered with stakeholders to translate complex business requirements into scalable ETL/ELT components."
+      ]
+    },
+    {
+      "company": "ProjectPro",
+      "position": "Data Science Intern",
+      "location": "India",
+      "startDate": "May 2021",
+      "endDate": "June 2022",
+      "duration": "1 year 2 months",
+      "summary": "Focused on data analysis and preliminary machine learning modeling.",
+      "highlights": [
+        "Analysed customer and transactional datasets using SQL and Python (Pandas) to identify trends and performance drivers.",
+        "Delivered actionable insights to support optimisation initiatives.",
+        "Assisted in building data pipelines and preparing large datasets for machine learning use cases."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Data Science Intern",
+      "location": "India",
+      "startDate": "February 2022",
+      "endDate": "June 2022",
+      "duration": "5 months",
+      "summary": "Worked on data-driven projects and analytics.",
+      "highlights": [
+        "Contributed to data analysis and visualization tasks using Power BI and Tableau.",
+        "Supported the development of predictive models using scikit-learn."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Enterprise Data Lake & Snowflake Warehouse Implementation",
+      "stack": "AWS S3, Glue, Databricks, Snowflake, DBT, PySpark",
+      "highlights": [
+        "Architected and implemented a Medallion-based data platform using AWS S3, Glue, Databricks, and Snowflake.",
+        "Developed PySpark transformation logic and DBT-based ELT workflows to build curated data marts.",
+        "Improved data reliability and reduced transformation latency while supporting enterprise analytics use cases."
+      ]
+    },
+    {
+      "title": "Predictive Risk Modelling & Classification System",
+      "stack": "Python, scikit-learn, XGBoost, SQL",
+      "highlights": [
+        "Developed a machine learning classification model to predict high-risk outcomes using structured historical data.",
+        "Performed extensive EDA, feature engineering, and handled class imbalance using advanced resampling techniques.",
+        "Implemented multiple models (Logistic Regression, Random Forest, XGBoost) and optimised performance using cross-validation and hyperparameter tuning.",
+        "Achieved high precision-recall balance and deployed the model with monitoring to ensure stability."
+      ]
+    },
+    {
+      "title": "Deep Learning-Based Computer Vision System",
+      "stack": "TensorFlow, CNN, Python",
+      "highlights": [
+        "Built a Convolutional Neural Network (CNN) using TensorFlow for image-based defect detection.",
+        "Designed preprocessing pipelines, data augmentation strategies, and model evaluation frameworks.",
+        "Achieved 98% accuracy with strong recall for safety-critical detection tasks."
+      ]
+    },
+    {
+      "title": "Automated BI Reporting System",
+      "stack": "Python (Pandas, NumPy), SQL, Power BI",
+      "highlights": [
+        "Built an automated BI reporting solution using Python and SQL to clean, transform, and prepare operational data.",
+        "Integrated processed datasets into Power BI to create dynamic dashboards for real-time monitoring.",
+        "Automated daily data refresh workflows, reducing manual reporting effort by 60%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northumbria University",
+      "area": "Artificial Intelligence",
+      "studyType": "Master of Science",
+      "location": "Newcastle Upon Tyne, UK",
+      "startDate": "September 2024",
+      "endDate": "September 2025"
+    },
+    {
+      "institution": "St. Xavier's College",
+      "area": "Big Data Analytics",
+      "studyType": "Master's degree",
+      "startDate": "2020",
+      "endDate": "2022"
+    },
+    {
+      "institution": "St. Xavier's College",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2017",
+      "endDate": "2020"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Engineering",
+      "keywords": ["PySpark", "Databricks", "AWS Glue", "Lambda", "Athena", "Snowflake", "DBT", "Airflow", "Azure Data Factory"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "keywords": ["Supervised & Unsupervised Learning", "Deep Learning", "CNNs", "TensorFlow", "scikit-learn", "AWS SageMaker", "MLOps"]
+    },
+    {
+      "name": "Analytics & BI",
+      "keywords": ["Power BI", "Tableau", "Excel (Advanced)", "DAX", "KPI Reporting", "Dashboard Design", "EDA"]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["SQL", "Python (Pandas, NumPy)", "PL-SQL"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services"
+    },
+    {
+      "name": "Microsoft Azure Data Engineer (DP-203)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Power BI Data Analyst (PL-300)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "extra": [
+    "Adept at stakeholder engagement and translating complex business requirements into scalable data components.",
+    "Experienced in building enterprise-grade data warehouses and implementing Medallion architecture.",
+    "Strong focus on computer vision, predictive modelling, and scalable ML solutions in cloud environments."
+  ]
+}
