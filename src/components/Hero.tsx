@@ -43,15 +43,16 @@ export const Hero: React.FC = () => {
               <span>View Experience</span>
               <ArrowRight size={18} />
             </motion.a>
-            <motion.button
+            <motion.a
+              href="/resume.pdf"
+              download="Rohan_Patil_Resume.pdf"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.print()}
               className="px-8 py-4 bg-white/5 text-white font-bold rounded-xl border border-white/10 flex items-center space-x-2 hover:bg-white/10 transition-colors"
             >
               <Download size={18} />
               <span>Download CV</span>
-            </motion.button>
+            </motion.a>
           </div>
 
           <div className="mt-12 flex items-center space-x-6 text-white/30 text-sm font-mono">
