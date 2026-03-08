@@ -44,7 +44,7 @@ export const Hero: React.FC = () => {
               <ArrowRight size={18} />
             </motion.a>
             <motion.a
-              href="href={`${import.meta.env.BASE_URL}resume.pdf`}"
+              href="href=https://rohanvp07.github.io/portfolio/resume.pdf"
               download="Rohan_Patil_Resume.pdf"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
